@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+body {
+    background-image: linear-gradient( #ffffff, #f4f759, #f5e83a, rgb(186, 250, 10));
+    height: auto;
+}
+.recipe {
+    height: auto;
+    width: 500px;
+}
+#kirby {
+    height: auto;
+    width: 600px;
+}
+.icon{
+    height: auto;
+    width: 20px;
+}
+h3{
+    font-size: 25px;
+    font-weight: bold;
+}
+* {
+    font-family: Verdana, Tahoma, sans-serif;
+    color: black;
+    font-size:15px;
+}
